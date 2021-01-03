@@ -1,0 +1,12 @@
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\bin\Debug\netcoreapp3.1\05_Factorial.exe
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\bin\Debug\netcoreapp3.1\05_Factorial.deps.json
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\bin\Debug\netcoreapp3.1\05_Factorial.runtimeconfig.json
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\bin\Debug\netcoreapp3.1\05_Factorial.runtimeconfig.dev.json
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\bin\Debug\netcoreapp3.1\05_Factorial.dll
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\bin\Debug\netcoreapp3.1\05_Factorial.pdb
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\obj\Debug\netcoreapp3.1\05_Factorial.AssemblyInfoInputs.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\obj\Debug\netcoreapp3.1\05_Factorial.AssemblyInfo.cs
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\obj\Debug\netcoreapp3.1\05_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\obj\Debug\netcoreapp3.1\05_Factorial.dll
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\obj\Debug\netcoreapp3.1\05_Factorial.pdb
+C:\Users\God_F\Google Drive\Coding\visual_studio\ptemik_prog3_mysolutions\Practice01\05_Factorial\obj\Debug\netcoreapp3.1\05_Factorial.genruntimeconfig.cache

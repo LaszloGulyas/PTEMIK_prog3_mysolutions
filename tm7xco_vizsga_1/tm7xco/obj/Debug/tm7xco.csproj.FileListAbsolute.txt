@@ -1,0 +1,12 @@
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\bin\Debug\tm7xco.exe.config
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\bin\Debug\tm7xco.exe
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\bin\Debug\tm7xco.pdb
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.csprojAssemblyReference.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.MainForm.resources
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.Properties.Resources.resources
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.csproj.GenerateResource.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.csproj.CoreCompileInputs.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.exe
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.pdb
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.View.MusorForm.resources
+C:\Users\God_F\Google Drive\Coding\visual_studio\tm7xco\tm7xco\obj\Debug\tm7xco.View.JegyeladasForm.resources

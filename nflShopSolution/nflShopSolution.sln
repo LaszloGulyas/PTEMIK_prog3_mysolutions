@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nflShopSolution", "nflShopSolution\nflShopSolution.csproj", "{11221649-2972-4701-AE27-39C04BB97AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11221649-2972-4701-AE27-39C04BB97AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11221649-2972-4701-AE27-39C04BB97AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11221649-2972-4701-AE27-39C04BB97AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11221649-2972-4701-AE27-39C04BB97AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {457A7CDD-0A57-4725-8B1E-2CC5C4FE16B8}
+	EndGlobalSection
+EndGlobal

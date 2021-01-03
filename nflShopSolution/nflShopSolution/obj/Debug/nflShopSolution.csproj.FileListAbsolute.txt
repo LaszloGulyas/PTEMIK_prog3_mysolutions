@@ -1,0 +1,12 @@
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\bin\Debug\nflShopSolution.exe.config
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\bin\Debug\nflShopSolution.exe
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\bin\Debug\nflShopSolution.pdb
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.csprojAssemblyReference.cache
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.View.AccountingForm.resources
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.MainForm.resources
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.OrderForm.resources
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.Properties.Resources.resources
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.csproj.GenerateResource.cache
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.csproj.CoreCompileInputs.cache
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.exe
+c:\Users\God_F\Google Drive\Coding\visual_studio\nflShopSolution\nflShopSolution\obj\Debug\nflShopSolution.pdb

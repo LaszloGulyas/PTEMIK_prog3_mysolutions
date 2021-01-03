@@ -1,0 +1,12 @@
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\bin\Debug\helloForms.exe.config
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\bin\Debug\helloForms.exe
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\bin\Debug\helloForms.pdb
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.Properties.Resources.resources
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.csproj.GenerateResource.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.csproj.CoreCompileInputs.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.exe
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.pdb
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.MainForm.resources
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.csprojAssemblyReference.cache
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.OrderForm.resources
+C:\Users\God_F\Google Drive\Coding\visual_studio\helloForms\helloForms\obj\Debug\helloForms.View.AccountingForm.resources
